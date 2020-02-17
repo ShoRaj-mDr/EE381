@@ -1,10 +1,5 @@
 
 # EE 381 Spring 2020 Project 1
-# Python- lab Assingment 1
-# Name: Shoraj Manandhar
-# I.D. #: 025307085
-# Start Date: 1-27-2020
-# End Date: 1-29-2020
 # Discription: This is the code for a pseudorandom number generator, RNG.
 # It will output a uniform distribution of number in the set [0,1).
 
